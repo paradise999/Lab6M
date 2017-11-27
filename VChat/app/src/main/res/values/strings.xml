@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VChat</string>
+    <string name="title_section1">Login</string>
+    <string name="title_section2">Chats</string>
+    <string name="action_settings">Exit</string>
+    <string name="action_settings1">Settings</string>
+    <string name="section_format">Connect to server</string>
+</resources>
